@@ -1,1 +1,1 @@
-# E-commerce-website-clone
+# E-commerce-website-clone using basic html & css.
